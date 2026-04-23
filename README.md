@@ -144,7 +144,7 @@ StockSight
 Clone the repository
 
 ```bash
-git clone https://github.com/shantanuroy04/quant-market.git
+git clone https://github.com/sVarun25tVT/quant-market.git
 ```
 
 Navigate to the project folder
