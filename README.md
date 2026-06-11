@@ -144,13 +144,13 @@ StockSight
 Clone the repository
 
 ```bash
-git clone https://github.com/Varun25tVT/quant-market.git
+git clone https://github.com/Varun25tVT/stocksight.git
 ```
 
 Navigate to the project folder
 
 ```bash
-cd quant-market
+cd stocksight
 ```
 
 Install dependencies
@@ -159,7 +159,14 @@ Install dependencies
 pip install -r requirements.txt
 ```
 
+Run the Streamlit app
+
+```bash
+streamlit run main.py
+```
+
 ---
+
 
 # Running the Application
 
